@@ -1,1 +1,1 @@
-Explain what a branch is
+A branch is a "working table" of a project, the master branch is where our main project lives. Creating different branches it is useful for us to experiment, test or edit the project whitout taking the risk of changing the main project.
