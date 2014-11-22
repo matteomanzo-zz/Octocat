@@ -1,1 +1,1 @@
-Explain what git clone does
+Creates the full git repository on the local system pulling every file and adds the remote origin.  
